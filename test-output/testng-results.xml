@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="125572" started-at="2020-11-25T13:53:09Z" finished-at="2020-11-25T13:55:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="125572" started-at="2020-11-25T13:53:09Z" finished-at="2020-11-25T13:55:15Z">
+      <class name="com.freecrm.tests.TC01_LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.freecrm.tests.TC01_LoginTest@26653222]" name="setUp" is-config="true" duration-ms="124162" started-at="2020-11-25T13:53:09Z" finished-at="2020-11-25T13:55:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.freecrm.tests.TC01_LoginTest@26653222]" name="verifyLogin" duration-ms="1334" started-at="2020-11-25T13:55:13Z" finished-at="2020-11-25T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- com.freecrm.tests.TC01_LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
